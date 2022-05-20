@@ -123,6 +123,8 @@ docker-compose -f docker-compose.yml up --build -d
 localhost:3111
 ```
 
+![browser view](assets\run.PNG)
+
 ### Image Dockerization Process Overview 
 
 ##### Dockerfile 
